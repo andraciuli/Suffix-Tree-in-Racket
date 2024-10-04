@@ -1,0 +1,1 @@
+("8.12" ta6le ("b358ff17eb22173c761f5d82d6693bcb44ab8af9" . "803860e06c5fdb1863734499b2c542661141f92b") #"/home/andra/Desktop/pp/etapa2/etapa1.rkt" #"/home/andra/Desktop/pp/etapa2/suffix-tree.rkt" (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
